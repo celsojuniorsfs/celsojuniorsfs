@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Celso Junior</h2>
-<blockquote><img alt="Systems Analyst" src="https://img.shields.io/badge/-Systems%Analyst-6633cc?style=flat-square&amp;logo=Polymer-Project&amp;logoColor=white&amp;color=555555"></blockquote>
+<blockquote>Systems Analyst</blockquote>
   
 <div align="left">
   <h2>🎯 Soft Skills</h2>
