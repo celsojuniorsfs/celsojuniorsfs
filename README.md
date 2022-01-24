@@ -33,7 +33,7 @@ Especialista em PHP, JavaScript, ADVPL, Visual Basic for Applications, SQL Serve
 <p align="center">
     </a>
     <a href="https://www.linkedin.com/in/celso-junior-347a21a8/">
-        <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=glauciodaniel&color=FF7704">
+        <img alt="My Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=FF7704">
     </a>
     <a href="mailto:cjunior.sfs@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=glauciodaniel@gmail.com&color=FF7704">
