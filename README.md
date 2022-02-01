@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Celso Junior</h2>
-<blockquote>Systems Analyst</blockquote>
+<blockquote>Full Stack Developer</blockquote>
   
 <div align="left">
   <h2>🎯 Soft Skills</h2>
